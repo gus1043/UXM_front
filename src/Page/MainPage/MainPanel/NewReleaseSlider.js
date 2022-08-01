@@ -26,7 +26,7 @@ export default class NewReleaseSlider extends Component {
       <div className="newsong">
       <Slider {...settings}>
       <div >
-         <a href="/newsong" style={{textDecoration:"none"}}>
+         <a href="/albuminfo" style={{textDecoration:"none"}}>
          <img style={img} src="https://musicmeta-phinf.pstatic.net/album/007/691/7691002.jpg?type=r360Fll&v=20220711181108" alt="하늘"/>
          <h3>하늘</h3>
          <h2>크루셜스타 (CRUCIAL STAR)</h2></a>

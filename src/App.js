@@ -9,6 +9,8 @@ import SideBar from './components/SideBar';
 import Download from './Page/Download';
 import Delete from './Page/Delete';
 import AlbumInfo from './Page/AlbumInfo';
+import BuyMusic from './Page/BuyMusic';
+
 function App() {
   return (
     <div style={{display: 'flex'}}>
@@ -24,6 +26,7 @@ function App() {
         <Route path="/download" element={<Download />} />
         <Route path="/delete" element={<Delete/>}/>
         <Route path="/albuminfo" element={<AlbumInfo/>}/>
+        <Route path="/buy" element={<BuyMusic/>}/>
       </Routes>
     </Router></div></div>
 
