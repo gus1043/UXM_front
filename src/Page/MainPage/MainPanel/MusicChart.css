@@ -1,0 +1,22 @@
+.row p {
+    font-weight: 500;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 0px;
+    font-size: 1rem;
+  }
+
+  .row h1 {
+    font-weight: 1000;
+    color: black;
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin-bottom: 0px;
+    font-size: 1rem;
+  }

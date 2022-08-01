@@ -1,0 +1,27 @@
+.newsong h3 {
+    font-weight: 800;
+    color: rgb(37, 38, 44);
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 5px;
+    font-size: 1.1rem;
+  }
+
+  .newsong h2 {
+    font-weight: 00;
+    color: rgb(37, 38, 44);
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    margin: 3px;
+    font-size: 1rem;
+  }
+  
+  .slick-prev:before,
+  .slick-next:before {
+    color:rgb(216, 216, 216);
+    font-size: 25px;
+  }
